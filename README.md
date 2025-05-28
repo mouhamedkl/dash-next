@@ -1,42 +1,29 @@
-# TailAdmin Next.js - Free Next.js Tailwind Admin Dashboard Template
+#  Free Next.js Tailwind Admin Dashboard Template
 
-TailAdmin is a free and open-source admin dashboard template built on **Next.js and Tailwind CSS** providing developers with everything they need to create a feature-rich and data-driven: back-end, dashboard, or admin panel solution for any sort of web project.
+dashnext is a free and open-source admin dashboard template built on **Next.js and Tailwind CSS** providing developers with everything they need to create a feature-rich and data-driven: back-end, dashboard, or admin panel solution for any sort of web project.
 
-![TailAdmin - Next.js Dashboard Preview](./banner.png)
+![dashnext - Next.js Dashboard Preview](./banner.png)
 
-With TailAdmin Next.js, you get access to all the necessary dashboard UI components, elements, and pages required to build a high-quality and complete dashboard or admin panel. Whether you're building a dashboard or admin panel for a complex web application or a simple website. 
+With dashnext Next.js, you get access to all the necessary dashboard UI components, elements, and pages required to build a high-quality and complete dashboard or admin panel. Whether you're building a dashboard or admin panel for a complex web application or a simple website. 
 
-TailAdmin utilizes the powerful features of **Next.js 15** and common features of Next.js such as server-side rendering (SSR), static site generation (SSG), and seamless API route integration. Combined with the advancements of **React 19** and the robustness of **TypeScript**, TailAdmin is the perfect solution to help get your project up and running quickly.
+dashnext utilizes the powerful features of **Next.js 15** and common features of Next.js such as server-side rendering (SSR), static site generation (SSG), and seamless API route integration. Combined with the advancements of **React 19** and the robustness of **TypeScript**, dashnext is the perfect solution to help get your project up and running quickly.
 
 ## Overview
 
-TailAdmin provides essential UI components and layouts for building feature-rich, data-driven admin dashboards and control panels. It's built on:
+dashnext provides essential UI components and layouts for building feature-rich, data-driven admin dashboards and control panels. It's built on:
 
 - Next.js 15.x
 - React 19
 - TypeScript
 - Tailwind CSS V4
 
-### Quick Links
-- [✨ Visit Website](https://tailadmin.com)
-- [📄 Documentation](https://tailadmin.com/docs)
-- [⬇️ Download](https://tailadmin.com/download)
-- [🖌️ Figma Design File (Community Edition)](https://www.figma.com/community/file/1463141366275764364)
-- [⚡ Get PRO Version](https://tailadmin.com/pricing)
 
-### Demos
-- [Free Version](https://nextjs-free-demo.tailadmin.com)
-- [Pro Version](https://nextjs-demo.tailadmin.com)
 
-### Other Versions
-- [HTML Version](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template)
-- [React Version](https://github.com/TailAdmin/free-react-tailwind-admin-dashboard)
-- [Vue.js Version](https://github.com/TailAdmin/vue-tailwind-admin-dashboard)
 
 ## Installation
 
 ### Prerequisites
-To get started with TailAdmin, ensure you have the following prerequisites installed and set up:
+To get started with dashnext, ensure you have the following prerequisites installed and set up:
 
 - Node.js 18.x or later (recommended to use Node.js 20.x or later)
 
@@ -44,7 +31,7 @@ To get started with TailAdmin, ensure you have the following prerequisites insta
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/TailAdmin/free-nextjs-admin-dashboard.git
+git clone https://github.com/dashnext/free-nextjs-admin-dashboard.git
 ```
 
 > Windows Users: place the repository near the root of your drive if you face issues while cloning.
@@ -66,7 +53,7 @@ git clone https://github.com/TailAdmin/free-nextjs-admin-dashboard.git
 
 ## Components
 
-TailAdmin is a pre-designed starting point for building a web-based dashboard using Next.js and Tailwind CSS. The template includes:
+dashnext is a pre-designed starting point for building a web-based dashboard using Next.js and Tailwind CSS. The template includes:
 
 - Sophisticated and accessible sidebar
 - Data visualization components
@@ -93,7 +80,7 @@ All components are built with React and styled using Tailwind CSS for easy custo
 - Complete Figma design file
 - Email support
 
-To learn more about pro version features and pricing, visit our [pricing page](https://tailadmin.com/pricing).
+
 
 ## Changelog
 
@@ -135,7 +122,7 @@ A major update focused on Next.js 15 implementation and comprehensive redesign.
 - Chart components now use ApexCharts for React
 - Authentication flow updated to use Server Actions and middleware
 
-[Read more](https://tailadmin.com/docs/update-logs/nextjs) on this release.
+
 
 #### Breaking Changes
 - Migrated from Next.js 14 to Next.js 15
@@ -166,7 +153,7 @@ A major update focused on Next.js 15 implementation and comprehensive redesign.
 
 ## License
 
-TailAdmin Next.js Free Version is released under the MIT License.
+dashnext Next.js Free Version is released under the MIT License.
 
 ## Support
 
